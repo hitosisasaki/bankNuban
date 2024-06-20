@@ -1,1 +1,2 @@
-# bankNuban
+# banksNuban
+Nuban algorithm implementation
